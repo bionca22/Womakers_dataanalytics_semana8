@@ -2,6 +2,12 @@
 
 Este repositório contém uma lista de exercícios desenvolvida durante a 8ª semana do Bootcamp em Data Analytics do projeto Womakers. O foco desta semana foi em análise exploratória de dados com Python e visualização de dados.
 
+## Dataset
+**Students Performance in Exams**
+
+Desempenho de alunos em exames.
+[clique aqui!](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+
 ## Descrição
 
 Durante a 8ª semana do Bootcamp em Data Analytics, exploramos os seguintes tópicos:
